@@ -18,3 +18,4 @@ export function getSupabase(): SupabaseClient {
   }
   return client;
 }
+
